@@ -1,2 +1,2 @@
 # RxRestaurants
-This app was created to practive RxSwift and the coordinator patter.
+This app was created to practice RxSwift and the coordinator patter.
